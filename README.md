@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LJxUJwQH8P5dQ0-yM3d82c1L_tl8k6rv/edit?usp=sharing&ouid=116341538922338617932&rtpof=true&sd=true](https://docs.google.com/document/d/1LJxUJwQH8P5dQ0-yM3d82c1L_tl8k6rv/edit?usp=sharing&ouid=116341538922338617932&rtpof=true&sd=true)
 
-- ⚡ Fun fact **For the past 8 years, I have fostered over 75 dogs on euthanasia lists to help give them time to find them a new home!**
+- ⚡ Fun fact **For the past 8 years, I have fostered around 75 dogs on euthanasia lists to give them more time to find a new home...big rescue dog advocate!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
