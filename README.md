@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachel Pontes</h1>
 <h3 align="center">A Dartmouth junior studying computer science and painting!</h3>
-<h4 align="center">I’m a software developer at DALI where I’ve built 3 tech products (one launching at a museum soon, one scaling across Africa, one seeking investor money). Also do LLM machine learning research at Dartmouth and worked at an early stage blockchain startup last summer. I chair the student board at Dartmouth's entrepreneurship center, helping scale Dartmouth startups.</h4>
+<p align="center">I’m a software developer at DALI where I’ve built 3 tech products (one launching at a museum soon, one scaling across Africa, one seeking investor money). Also do LLM machine learning research at Dartmouth and worked at an early stage blockchain startup last summer. I chair the student board at Dartmouth's entrepreneurship center, helping scale Dartmouth startups.</p>
 
 - 🔭 I’m currently working on [Habit Tracker](https://github.com/rachel-pontes/habit-tracker)
 
