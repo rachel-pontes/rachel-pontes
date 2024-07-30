@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rachel Pontes</h1>
-<h3 align="center">A Dartmouth junior studying computer science and painting</h3>
+<h3 align="center">A Dartmouth junior studying computer science and painting!</h3>
+<h4 align="center">I’m a software developer at DALI where I’ve built 3 tech products (one launching at a museum soon, one scaling across Africa, one seeking investor money). Also do LLM machine learning research at Dartmouth and worked at an early stage blockchain startup last summer. I chair the student board at Dartmouth's entrepreneurship center, helping scale Dartmouth startups.</h4>
 
 - 🔭 I’m currently working on [Habit Tracker](https://github.com/rachel-pontes/habit-tracker)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachel-pontes](https://github.com/rachel-pontes)
 
-- 💬 Ask me about **building software at DALI**
+- 💬 Ask me about **marathons and triathlons!**
 
 - 📫 How to reach me **rachel.pontes.26@dartmouth.edu**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LJxUJwQH8P5dQ0-yM3d82c1L_tl8k6rv/edit?usp=sharing&ouid=116341538922338617932&rtpof=true&sd=true](https://docs.google.com/document/d/1LJxUJwQH8P5dQ0-yM3d82c1L_tl8k6rv/edit?usp=sharing&ouid=116341538922338617932&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I have fostered 75 dogs**
+- ⚡ Fun fact **For the past 8 years, I have fostered over 75 dogs on euthanasia lists to help give them time to find them a new home!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
