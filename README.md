@@ -14,9 +14,7 @@
 
 <h2>👨‍💻 Projects</h2>
 
-## 👨‍💻 Projects
-
-Some repositories are unable to be publicly displayed, either because they are part of my work with DALI for external partners and have proprietary codebases, or are class projects requested by the professor to be kept private. Happy to discuss the repositories if requested.
+*Some repositories are unable to be publicly displayed, either because they are part of my work with DALI for external partners and have proprietary codebases, or are class projects requested by the professor to be kept private. Happy to discuss the repositories if requested.*
 
 ### 🎨 Hood Museum Exhibit
 Collaborated with the Hood Museum to develop a mobile application that analyzes different interpretations to art pieces using natural language processing. *DALI project, proprietary codebase*
