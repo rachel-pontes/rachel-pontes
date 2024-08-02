@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rachel.pontes.26@dartmouth.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gO8hwLLL3JF-AShmZXDaqsHMmClAmaPg/view?usp=sharing](https://drive.google.com/file/d/1gO8hwLLL3JF-AShmZXDaqsHMmClAmaPg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Fds48mj7c0tFNhTUESH4AgF5ixHgiUuN/view?usp=sharing](https://drive.google.com/file/d/1Fds48mj7c0tFNhTUESH4AgF5ixHgiUuN/view?usp=sharing)
 
 - ⚡ Fun fact **For the past 8 years, I have fostered around 75 dogs on euthanasia lists to give them more time to find a new home...big rescue dog advocate!**
 
