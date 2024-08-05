@@ -14,16 +14,16 @@
 
 <h2>👨‍💻 Projects</h2>
 
-*Some repositories are unable to be publicly displayed, either because they are part of my work with DALI for external partners and have proprietary codebases, or are class projects requested by the professor to be kept private. Happy to discuss the repositories if requested.*
+*Some repositories have private or proprietary codebases so are not publicly displayed. Happy to discuss the repositories if requested.*
 
 ### 🎨 Hood Museum Exhibit
-Collaborated with the Hood Museum to develop a mobile application that analyzes different interpretations to art pieces using natural language processing. *DALI project, proprietary codebase*
+Collaborated with the Hood Museum to develop a mobile application that analyzes different interpretations to art pieces using natural language processing.
 
 ### 🌍 Enlight
-Developed an offline-first educational platform, allowing students in regions with limited internet access to connect to a local network and access interactive learning materials without an internet connection. *DALI project, proprietary codebase*
+Developed an offline-first educational platform, allowing students in regions with limited internet access to connect to a local network and access interactive learning materials without an internet connection. 
 
 ### 🔍 Tiny Search Engine
-Developed a Linux command line search engine with a web crawler, page indexer, and page-ranking querier in C. *Class project, not publicly available*
+Developed a Linux command line search engine with a web crawler, page indexer, and page-ranking querier in C. 
 
 ### 🐝 NYT Spelling Bee
 A game based on the NYT Spelling Bee where players form words using seven unique letters, with one core letter required in every word.
@@ -35,16 +35,16 @@ A mobile application that schedules meetings by importing attendees’ Google Ca
 Generates a personalized birthday site with the 'NASA Picture of the Day' and a poem created by the OpenAI API.
 
 ### 📝 Part of Speech Tagger
-Labeled words from the Brown Corpus using a Hidden Markov Model with 96% accuracy, utilizing Viterbi decoding in Java. *Class project, not publicly available*
+Labeled words from the Brown Corpus using a Hidden Markov Model with 96% accuracy, utilizing Viterbi decoding in Java.
 
 ### 💰 Nuggets
-A multi-client game server built in C where players explore for gold with visibility based on their position. *Class project, not publicly available*
+A multi-client game server built in C where players explore for gold with visibility based on their position. 
 
 ### 🏃‍♂️ Athas
-A mobile application connecting and matching cyclers based on ability and GPS, currently being demoed for investors. *DALI project, proprietary codebase*
+A mobile application connecting and matching cyclers based on ability and GPS, currently being demoed for investors.
 
 ### 🏪 DartPop
-A mobile application developed to create a digital thrift store experience for the Dartmouth campus. *DALI project, proprietary codebase*
+A mobile application developed to create a digital thrift store experience for the Dartmouth campus. 
 
 
 <h3 align="left">Connect with me:</h3>
